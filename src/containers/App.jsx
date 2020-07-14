@@ -7,6 +7,7 @@ import "../assets/styles/App.scss";
 const App = () => (
   <div className="App">
     <Header />
+    <Search />
   </div>
 );
 
