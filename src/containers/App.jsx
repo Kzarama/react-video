@@ -4,6 +4,10 @@ import Search from "../components/Search";
 
 import "../assets/styles/App.scss";
 
-const App = () => <div className="App"></div>;
+const App = () => (
+  <div className="App">
+    <Header />
+  </div>
+);
 
 export default App;
